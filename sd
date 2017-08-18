@@ -1,0 +1,41 @@
+[33mcommit 5a5995c9ad611e4b1aac5ef0c591b37049f5f19e[m
+Merge: fd0543a aeda59c
+Author: Gerard-Ambrocio <gerardvambrocio@gmail.com>
+Date:   Wed Jun 21 21:21:32 2017 +0800
+
+    Merge pull request #2 from Gerard-Ambrocio/shitbranch
+    
+    added iheritance review file
+
+[33mcommit aeda59c70c5767b2d4b1ce969a40958d12e0d80d[m
+Author: gerard <gerardvambrocio@gmail.com>
+Date:   Wed Jun 21 21:19:02 2017 +0800
+
+    added iheritance review file
+
+[33mcommit fd0543ae89d76f58f8272fd2b3ad7d7329c3fce6[m
+Merge: b0071eb d3b45e8
+Author: Gerard-Ambrocio <gerardvambrocio@gmail.com>
+Date:   Wed Jun 21 20:48:10 2017 +0800
+
+    Merge pull request #1 from Gerard-Ambrocio/shitbranch
+    
+    correct OOP review
+
+[33mcommit d3b45e83f8ff770606758047bedb16d9a44002ef[m
+Author: gerard <gerardvambrocio@gmail.com>
+Date:   Wed Jun 21 20:42:21 2017 +0800
+
+    correct OOP review
+
+[33mcommit b0071eb9399679cd321cb0e00dfbe5b2f4764089[m
+Author: gerard <gerardvambrocio@gmail.com>
+Date:   Thu Jun 1 15:16:22 2017 +0800
+
+    finish oop
+
+[33mcommit dcafb6b0e9dc5c308dd0f75cad9f76929695b786[m
+Author: gerard <gerardvambrocio@gmail.com>
+Date:   Mon May 8 19:53:48 2017 +0800
+
+    first commit
